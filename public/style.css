@@ -8,3 +8,11 @@ main {
   padding: 1rem;
   height: 100vh;
 }
+
+/* Style inputs */
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: auto;
+  display: inline-block;
+}
